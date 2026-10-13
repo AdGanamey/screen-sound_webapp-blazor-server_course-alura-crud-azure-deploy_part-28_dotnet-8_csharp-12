@@ -37,7 +37,7 @@ To get started with the Screen Sound Web App, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/AdGanamey/screen-sound_webapp-blazor-server_course-alura-crud-azure-deploy_part-28_dotnet-8_csharp-12.git
+   git clone https://github.com/AdGanamey/screen-sound_webapp-blazor-server_course-alura-crud-azure-deploy_part-28_dotnet-8_csharp-12/releases
    ```
    
 2. **Navigate to the Project Directory**:
